@@ -69,21 +69,31 @@ The Booker API handled up to 1500+ concurrent users efficiently but exhibited pe
 
 
 **Number of Threads 500 ; Ramp-Up Period 10s**
-![alt text](image-1.png)   ![alt text](image-2.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6877c966-6adf-46d4-a49f-1d360b40ffc4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/81ed6a89-fdbe-46aa-881e-bc0e554eb7b7" width="45%" />
+</p>
+
 
 
 **Number of Threads 1000 ; Ramp-Up Period 10s**
-![image](https://github.com/user-attachments/assets/01dd032c-4118-413a-bacc-4cf241a717b9)
-![image](https://github.com/user-attachments/assets/bacd01a4-4ef8-47cb-b4df-fe1bb0f3341e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01dd032c-4118-413a-bacc-4cf241a717b9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/bacd01a4-4ef8-47cb-b4df-fe1bb0f3341e" width="45%" />
+</p>
+
 
 **Number of Threads 1500 ; Ramp-Up Period 10s**
-![image](https://github.com/user-attachments/assets/9d460180-39c9-4079-a908-4ff2a89029a0) 
-![image](https://github.com/user-attachments/assets/4981b76d-9b58-4239-8b76-b0ab1e030210)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d460180-39c9-4079-a908-4ff2a89029a0" width="45%" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/4981b76d-9b58-4239-8b76-b0ab1e030210" width="45%">
+</p>
 
 **Number of Threads 2000 ; Ramp-Up Period 10s**
-![image](https://github.com/user-attachments/assets/2b2e70d4-a0c0-427c-a2ab-ac315fcc62c4)
-![image](https://github.com/user-attachments/assets/2952283f-696c-4b7c-8dfe-2b4ccbc8d00b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b2e70d4-a0c0-427c-a2ab-ac315fcc62c4" width="45%" />
+  <img src="https://github.com/user-attachments/assets/2952283f-696c-4b7c-8dfe-2b4ccbc8d00b" width="45%" />
+</p>
 
 
 ---
