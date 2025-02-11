@@ -67,7 +67,27 @@ The following table presents the results of the performance tests:
 
 The Booker API handled up to 1500+ concurrent users efficiently but exhibited performance degradation beyond that threshold. Further optimizations in server scalability and request handling may be needed for improved high-load performance.
 
+Requests Summary             |  Errors
+:-------------------------:|:-------------------------:
+
+
+**Number of Threads 500 ; Ramp-Up Period 10s**
 ![alt text](image-1.png)   ![alt text](image-2.png)
+
+**Number of Threads 1000 ; Ramp-Up Period 10s**
+![image](https://github.com/user-attachments/assets/01dd032c-4118-413a-bacc-4cf241a717b9)
+![image](https://github.com/user-attachments/assets/bacd01a4-4ef8-47cb-b4df-fe1bb0f3341e)
+
+
+
+**Number of Threads 1500 ; Ramp-Up Period 10s**
+![image](https://github.com/user-attachments/assets/9d460180-39c9-4079-a908-4ff2a89029a0) ![image](https://github.com/user-attachments/assets/4981b76d-9b58-4239-8b76-b0ab1e030210)
+
+
+**Number of Threads 2000 ; Ramp-Up Period 10s**
+![image](https://github.com/user-attachments/assets/2b2e70d4-a0c0-427c-a2ab-ac315fcc62c4)
+![image](https://github.com/user-attachments/assets/2952283f-696c-4b7c-8dfe-2b4ccbc8d00b)
+
 
 ---
 
